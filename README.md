@@ -1,1 +1,1 @@
-# LifeOnlineFrontend
+# LifeOnline Frontend
